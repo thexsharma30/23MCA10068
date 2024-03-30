@@ -1,0 +1,26 @@
+.list {
+  /* display: flex; */
+  width: 60%;
+  margin: auto;
+  /* margin-top: 20px; */
+  /* justify-content: space-between; */
+  /* margin: 5px; */
+}
+.div-with-button {
+  margin-right: 10px !important;
+}
+.email-div {
+  margin-right: 10px;
+}
+.edit-btn {
+  margin-right: 10px;
+}
+.create-btn {
+  margin-left: 20%;
+}
+
+@media screen and (max-width: 767px) {
+  form {
+    width: 50% !important;
+  }
+}
